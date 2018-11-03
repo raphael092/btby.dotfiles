@@ -1,0 +1,93 @@
+16:49:12.416: CPU Name: Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz
+16:49:12.416: CPU Speed: 3655.473MHz
+16:49:12.416: Physical Cores: 4, Logical Cores: 8
+16:49:12.416: Physical Memory: 15983MB Total, 13392MB Free
+16:49:12.416: Kernel Version: Linux 4.18.12-arch1-1-ARCH
+16:49:12.416: Distribution: "Arch Linux" Unknown
+16:49:12.417: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.1
+16:49:12.417: Portable mode: false
+16:49:12.431: OBS 22.0.2-1 (linux)
+16:49:12.431: ---------------------------------
+16:49:12.431: ---------------------------------
+16:49:12.431: audio settings reset:
+16:49:12.431: 	samples per sec: 48000
+16:49:12.431: 	speakers:        2
+16:49:12.435: ---------------------------------
+16:49:12.435: Initializing OpenGL...
+16:49:12.506: Loading up OpenGL on adapter NVIDIA Corporation GeForce GTX 660 Ti/PCIe/SSE2
+16:49:12.506: OpenGL loaded successfully, version 3.2.0 NVIDIA 410.57, shading language 1.50 NVIDIA via Cg compiler
+16:49:12.511: ---------------------------------
+16:49:12.511: video settings reset:
+16:49:12.511: 	base resolution:   1920x1080
+16:49:12.511: 	output resolution: 1920x1080
+16:49:12.511: 	downscale filter:  Lanczos
+16:49:12.511: 	fps:               60/1
+16:49:12.511: 	format:            NV12
+16:49:12.511: 	YUV mode:          601/Partial
+16:49:12.511: Audio monitoring device:
+16:49:12.511: 	name: Standard
+16:49:12.511: 	id: default
+16:49:12.511: ---------------------------------
+16:49:12.513: os_dlopen(/usr//lib/obs-plugins/frontend-tools.so->/usr//lib/obs-plugins/frontend-tools.so): libluajit-5.1.so.2: Kann die Shared-Object-Datei nicht öffnen: Datei oder Verzeichnis nicht gefunden
+16:49:12.513: 
+16:49:12.513: Module '/usr//lib/obs-plugins/frontend-tools.so' not loaded
+16:49:12.517: No blackmagic support
+16:49:12.524: NVENC supported
+16:49:12.525: os_dlopen(/usr//lib/obs-plugins/obs-libfdk.so->/usr//lib/obs-plugins/obs-libfdk.so): libfdk-aac.so.1: Kann die Shared-Object-Datei nicht öffnen: Datei oder Verzeichnis nicht gefunden
+16:49:12.525: 
+16:49:12.525: Module '/usr//lib/obs-plugins/obs-libfdk.so' not loaded
+16:49:12.528: os_dlopen(libvlc.so.5->libvlc.so.5): libvlc.so.5: Kann die Shared-Object-Datei nicht öffnen: Datei oder Verzeichnis nicht gefunden
+16:49:12.528: 
+16:49:12.528: Couldn't find VLC installation, VLC video source disabled
+16:49:12.528: ---------------------------------
+16:49:12.528:   Loaded Modules:
+16:49:12.528:     vlc-video.so
+16:49:12.528:     text-freetype2.so
+16:49:12.528:     rtmp-services.so
+16:49:12.528:     obs-x264.so
+16:49:12.528:     obs-transitions.so
+16:49:12.528:     obs-outputs.so
+16:49:12.529:     obs-filters.so
+16:49:12.529:     obs-ffmpeg.so
+16:49:12.529:     linux-v4l2.so
+16:49:12.529:     linux-pulseaudio.so
+16:49:12.529:     linux-jack.so
+16:49:12.529:     linux-decklink.so
+16:49:12.529:     linux-capture.so
+16:49:12.529:     linux-alsa.so
+16:49:12.529:     image-source.so
+16:49:12.529: ---------------------------------
+16:49:12.529: ==== Startup complete ===============================================
+16:49:12.529: Service '' not found
+16:49:12.530: All scene data cleared
+16:49:12.530: ------------------------------------------------
+16:49:12.532: pulse-input: Server name: 'pulseaudio 12.2'
+16:49:12.532: pulse-input: Audio format: s16le, 16000 Hz, 1 channels
+16:49:12.532: pulse-input: Started recording from 'alsa_output.usb-Sennheiser_GSX_1200_Pro_Main_Audio_5698810417004574-00.analog-mono.monitor'
+16:49:12.533: pulse-input: Server name: 'pulseaudio 12.2'
+16:49:12.534: pulse-input: Audio format: s16le, 16000 Hz, 1 channels
+16:49:12.534: pulse-input: Started recording from 'alsa_input.usb-Sennheiser_GSX_1200_Pro_Main_Audio_5698810417004574-00.analog-mono'
+16:49:12.534: xshm-input: Geometry 1920x1080 @ 0,0
+16:49:12.535: Switched to scene 'Desktop'
+16:49:12.535: ------------------------------------------------
+16:49:12.535: Loaded scenes:
+16:49:12.535: - scene 'Desktop':
+16:49:12.535:     - source: 'Bildschirmaufnahme (XSHM)' (xshm_input)
+16:49:12.535: ------------------------------------------------
+16:49:13.064: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds
+16:49:17.988: ---------------------------------
+16:49:17.988: [x264 encoder: 'recording_h264'] preset: medium
+16:49:17.989: [x264 encoder: 'recording_h264'] settings:
+16:49:17.989: 	rate_control: VBR
+16:49:17.989: 	bitrate:      50000
+16:49:17.989: 	buffer size:  50000
+16:49:17.989: 	crf:          23
+16:49:17.989: 	fps_num:      60
+16:49:17.989: 	fps_den:      1
+16:49:17.989: 	width:        1920
+16:49:17.989: 	height:       1080
+16:49:17.989: 	keyint:       250
+16:49:17.989: 
+16:49:17.996: ---------------------------------
+16:49:17.996: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+16:49:17.996: 

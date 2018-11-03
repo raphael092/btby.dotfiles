@@ -1,0 +1,766 @@
+{
+   "checksum": "b248aaba0b42ffae113cddb2c3cf4d20",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13185547655257807",
+               "id": "7",
+               "meta_info": {
+                  "Thumbnail": "/resources/sd_vivaldi.png"
+               },
+               "name": "Vivaldi",
+               "type": "url",
+               "url": "https://vivaldi.com/"
+            }, {
+               "date_added": "13185547655259542",
+               "id": "8",
+               "meta_info": {
+                  "Thumbnail": "/resources/sd_vivaldi_community.gif"
+               },
+               "name": "Vivaldi Community",
+               "type": "url",
+               "url": "https://vivaldi.net/de/"
+            }, {
+               "date_added": "13185547655273243",
+               "id": "9",
+               "meta_info": {
+                  "Description": "travel",
+                  "Thumbnail": "/resources/sd_booking.com.png"
+               },
+               "name": "Booking.com",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/bookingcom-de"
+            }, {
+               "date_added": "13185547655274656",
+               "id": "10",
+               "meta_info": {
+                  "Description": "travel",
+                  "Thumbnail": "/resources/sd_de_urlaubsbox.png"
+               },
+               "name": "Urlaubsbox",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/urlaubsbox-de"
+            }, {
+               "date_added": "13185547655275578",
+               "id": "11",
+               "meta_info": {
+                  "Description": "shopping",
+                  "Thumbnail": "/resources/sd_ebay.png"
+               },
+               "name": "eBay",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/ebay-de"
+            }, {
+               "date_added": "13185547655276581",
+               "id": "12",
+               "meta_info": {
+                  "Description": "shopping, electronics",
+                  "Thumbnail": "/resources/sd_amazon.png"
+               },
+               "name": "Amazon",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/amazon"
+            }, {
+               "date_added": "13185547655277407",
+               "id": "13",
+               "meta_info": {
+                  "Description": "einkaufen",
+                  "Thumbnail": "/resources/sd_aliexpress.png"
+               },
+               "name": "AliExpress",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/aliexpresscom-de"
+            }, {
+               "date_added": "13185547655278212",
+               "id": "14",
+               "meta_info": {
+                  "Description": "travel",
+                  "Thumbnail": "/resources/sd_tripadvisor.png"
+               },
+               "name": "TripAdvisor",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/tripadvisor-world"
+            }, {
+               "date_added": "13185547655278970",
+               "id": "15",
+               "meta_info": {
+                  "Description": "travel",
+                  "Thumbnail": "/resources/sd_expedia.png"
+               },
+               "name": "Expedia",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/expedia"
+            }, {
+               "date_added": "13185547655280531",
+               "id": "16",
+               "meta_info": {
+                  "Description": "travel, tickets, flights",
+                  "Thumbnail": "/resources/sd_kayak.png"
+               },
+               "name": "KAYAK",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/kayak-de"
+            }, {
+               "date_added": "13185547655281440",
+               "id": "17",
+               "meta_info": {
+                  "Description": "shopping, discounts, coupons",
+                  "Thumbnail": "/resources/sd_groupon.png"
+               },
+               "name": "Groupon",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/groupon"
+            }, {
+               "date_added": "13185547655282226",
+               "id": "18",
+               "meta_info": {
+                  "Description": "portal, start page",
+                  "Thumbnail": "/resources/sd_startme.png"
+               },
+               "name": "start.me",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/startme-en-us"
+            }, {
+               "date_added": "13185547655283087",
+               "id": "19",
+               "meta_info": {
+                  "Thumbnail": "/resources/sd_de_web.de.png"
+               },
+               "name": "WEB.DE",
+               "type": "url",
+               "url": "https://web.de/"
+            }, {
+               "date_added": "13185547655283892",
+               "id": "20",
+               "meta_info": {
+                  "Thumbnail": "/resources/sd_youtube.png"
+               },
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            }, {
+               "children": [ {
+                  "date_added": "13185547655285463",
+                  "id": "22",
+                  "meta_info": {
+                     "Thumbnail": "/resources/sd_de_bild.png"
+                  },
+                  "name": "Bild",
+                  "type": "url",
+                  "url": "http://www.bild.de/"
+               }, {
+                  "date_added": "13185547655286312",
+                  "id": "23",
+                  "meta_info": {
+                     "Thumbnail": "/resources/sd_de_spiegel.png"
+                  },
+                  "name": "SPIEGEL ONLINE",
+                  "type": "url",
+                  "url": "http://www.spiegel.de/"
+               }, {
+                  "date_added": "13185547655287137",
+                  "id": "24",
+                  "meta_info": {
+                     "Thumbnail": "/resources/sd_de_focus.png"
+                  },
+                  "name": "FOCUS Online",
+                  "type": "url",
+                  "url": "http://www.focus.de/"
+               }, {
+                  "date_added": "13185547655288020",
+                  "id": "25",
+                  "meta_info": {
+                     "Thumbnail": "/resources/sd_de_stern.png"
+                  },
+                  "name": "STERN.DE",
+                  "type": "url",
+                  "url": "http://www.stern.de/"
+               }, {
+                  "date_added": "13185547655289258",
+                  "id": "26",
+                  "meta_info": {
+                     "Thumbnail": "/resources/sd_blick.png"
+                  },
+                  "name": "Blick",
+                  "type": "url",
+                  "url": "http://www.blick.ch/"
+               }, {
+                  "date_added": "13185547655291479",
+                  "id": "27",
+                  "meta_info": {
+                     "Thumbnail": "/resources/sd_de_derstandard.png"
+                  },
+                  "name": "derStandard.at",
+                  "type": "url",
+                  "url": "http://derstandard.at/"
+               } ],
+               "date_added": "13185547655284688",
+               "date_modified": "13185547655291479",
+               "id": "21",
+               "name": "News",
+               "type": "folder"
+            } ],
+            "date_added": "13185547655256896",
+            "date_modified": "13185547655284723",
+            "id": "6",
+            "meta_info": {
+               "Speeddial": "true"
+            },
+            "name": "Schnellwahl",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13185547655293058",
+               "id": "29",
+               "meta_info": {
+                  "Description": "electronics"
+               },
+               "name": "Farnell element14 Deutschland - Anbieter von elektronischen Bauteilen",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/farnellelement14-de"
+            }, {
+               "date_added": "13185547655293857",
+               "id": "30",
+               "meta_info": {
+                  "Description": "software"
+               },
+               "name": "Corel Corporation",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/corel-de"
+            }, {
+               "date_added": "13185547655294618",
+               "id": "31",
+               "meta_info": {
+                  "Description": "technology, hosting"
+               },
+               "name": "Domain Name Search | Advanced Domain Search Tool - GoDaddy",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/godaddy"
+            }, {
+               "date_added": "13185547655295429",
+               "id": "32",
+               "name": "heise online - IT-News, Nachrichten und Hintergründe",
+               "type": "url",
+               "url": "http://www.heise.de/"
+            }, {
+               "date_added": "13185547655296149",
+               "id": "33",
+               "name": "CHIP - Deutschlands Webseite Nr. 1 für Computer, Handy und Home Entertainment",
+               "type": "url",
+               "url": "http://www.chip.de/"
+            }, {
+               "date_added": "13185547655297020",
+               "id": "34",
+               "name": "COMPUTER BILD: Tests, Downloads, Ratgeber & Kurse, Kaufberatung, Video - COMPUTER BILD",
+               "type": "url",
+               "url": "http://www.computerbild.de/"
+            }, {
+               "date_added": "13185547655297868",
+               "id": "35",
+               "name": "t3n – digital pioneers | Das Magazin für digitales Business",
+               "type": "url",
+               "url": "http://t3n.de/"
+            }, {
+               "date_added": "13185547655298782",
+               "id": "36",
+               "name": "ComputerBase",
+               "type": "url",
+               "url": "http://www.computerbase.de/"
+            }, {
+               "date_added": "13185547655299725",
+               "id": "37",
+               "name": "Das Portal für Computer und Technik - PC-WELT",
+               "type": "url",
+               "url": "http://www.pcwelt.de/"
+            }, {
+               "date_added": "13185547655300556",
+               "id": "38",
+               "name": "Golem.de: IT-News für Profis",
+               "type": "url",
+               "url": "http://www.golem.de/"
+            } ],
+            "date_added": "13185547655292296",
+            "date_modified": "13185547655300556",
+            "id": "28",
+            "name": "Technologie",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13185547655302183",
+               "id": "40",
+               "meta_info": {
+                  "Description": "photo, software"
+               },
+               "name": "Music-, Video-, Graphic & Photo Software from the market leader - MAGIX",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/magix-de"
+            }, {
+               "date_added": "13185547655304089",
+               "id": "41",
+               "meta_info": {
+                  "Description": "gaming"
+               },
+               "name": "Konsolenkost - Ihr Shop für Games und Konsolen von Retro bis heute!",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/konsolenkost-retrogames-de"
+            }, {
+               "date_added": "13185547655305040",
+               "id": "42",
+               "meta_info": {
+                  "Description": "games"
+               },
+               "name": "GamersGate - Buy and download games for PC now",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/gamersgate"
+            }, {
+               "date_added": "13185547655305752",
+               "id": "43",
+               "name": "GameStar.de: Tests, Previews, Videos, News, Spieletipps, Cheats und Downloads für PC-Spiele.",
+               "type": "url",
+               "url": "http://www.gamestar.de/"
+            }, {
+               "date_added": "13185547655306715",
+               "id": "44",
+               "name": "GIGA - Leidenschaft für Technik und Games",
+               "type": "url",
+               "url": "http://www.giga.de/"
+            }, {
+               "date_added": "13185547655307532",
+               "id": "45",
+               "name": "Online Games | Browsergames | kostenlos spielen bei Gameforge.com",
+               "type": "url",
+               "url": "http://de.gameforge.com/"
+            }, {
+               "date_added": "13185547655308449",
+               "id": "46",
+               "name": "Battle.net",
+               "type": "url",
+               "url": "http://www.battle.net/"
+            }, {
+               "date_added": "13185547655309313",
+               "id": "47",
+               "name": "PC Games - News, Tests, Cheats und Videos zu PC-Spielen",
+               "type": "url",
+               "url": "http://www.pcgames.de/"
+            } ],
+            "date_added": "13185547655301457",
+            "date_modified": "13185547655309313",
+            "id": "39",
+            "name": "Spiele",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13185547655311152",
+               "id": "49",
+               "name": "Nachrichten und aktuelle Informationen aus Politik, Wirtschaft, Sport und Kultur - DIE WELT",
+               "type": "url",
+               "url": "http://www.welt.de/"
+            }, {
+               "date_added": "13185547655312211",
+               "id": "50",
+               "name": "ZEIT ONLINE | Nachrichten, Hintergründe und Debatten",
+               "type": "url",
+               "url": "http://www.zeit.de/"
+            }, {
+               "date_added": "13185547655313222",
+               "id": "51",
+               "name": "Aktuelle Nachrichten online - FAZ.NET",
+               "type": "url",
+               "url": "http://www.faz.net/"
+            }, {
+               "date_added": "13185547655314375",
+               "id": "52",
+               "name": "Yahoo Deutschland",
+               "type": "url",
+               "url": "https://de.yahoo.com/"
+            }, {
+               "date_added": "13185547655315479",
+               "id": "53",
+               "name": "Nachrichten, aktuelle Schlagzeilen und Videos - n-tv.de",
+               "type": "url",
+               "url": "http://www.n-tv.de/"
+            }, {
+               "date_added": "13185547655316618",
+               "id": "54",
+               "name": "Nachrichten - Sport - Dokumentationen - Wissen - N24.de",
+               "type": "url",
+               "url": "http://www.n24.de/"
+            } ],
+            "date_added": "13185547655310111",
+            "date_modified": "13185547655316618",
+            "id": "48",
+            "name": "News",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13185547655319738",
+               "id": "56",
+               "name": "idealo.de - Deutschlands großer Preisvergleich",
+               "type": "url",
+               "url": "http://www.idealo.de/"
+            }, {
+               "date_added": "13185547655321124",
+               "id": "57",
+               "name": "Geizhals Deutschland",
+               "type": "url",
+               "url": "http://geizhals.de/"
+            }, {
+               "date_added": "13185547655322296",
+               "id": "58",
+               "name": "Geizhals Österreich",
+               "type": "url",
+               "url": "http://geizhals.at/"
+            }, {
+               "date_added": "13185547655323468",
+               "id": "59",
+               "name": "eBay Kleinanzeigen | Kostenlos. Einfach. Lokal. Anzeigen gratis inserieren mit eBay Kleinanzeigen",
+               "type": "url",
+               "url": "http://kleinanzeigen.ebay.de/"
+            }, {
+               "date_added": "13185547655324747",
+               "id": "60",
+               "name": "Hardware, Notebooks & Software von Mindfactory.de",
+               "type": "url",
+               "url": "http://www.mindfactory.de/"
+            }, {
+               "date_added": "13185547655325898",
+               "id": "61",
+               "name": "Etsy",
+               "type": "url",
+               "url": "https://www.etsy.com/"
+            }, {
+               "date_added": "13185547655327382",
+               "id": "62",
+               "name": "Test- und Verbraucherinformation bei Testberichte.de",
+               "type": "url",
+               "url": "http://www.testberichte.de/"
+            } ],
+            "date_added": "13185547655318321",
+            "date_modified": "13185547655327382",
+            "id": "55",
+            "name": "Einkaufen",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13185547655329731",
+               "id": "64",
+               "name": "Sportnachrichten",
+               "type": "url",
+               "url": "http://www.kicker.de/"
+            }, {
+               "date_added": "13185547655330944",
+               "id": "65",
+               "name": "SPORT1 | Home News",
+               "type": "url",
+               "url": "http://www.sport1.de/"
+            }, {
+               "date_added": "13185547655332166",
+               "id": "66",
+               "name": "Transfermarkt",
+               "type": "url",
+               "url": "http://www.transfermarkt.de/"
+            }, {
+               "date_added": "13185547655333429",
+               "id": "67",
+               "name": "sportschau.de",
+               "type": "url",
+               "url": "http://www.sportschau.de/"
+            }, {
+               "date_added": "13185547655334625",
+               "id": "68",
+               "name": "Yahoo Eurosport - Sport-Nachrichten, Live Berichte, Videos und mehr!",
+               "type": "url",
+               "url": "https://de.eurosport.yahoo.com/"
+            } ],
+            "date_added": "13185547655328502",
+            "date_modified": "13185547655334625",
+            "id": "63",
+            "name": "Sport",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13185547655337060",
+               "id": "70",
+               "meta_info": {
+                  "Description": "flight tickets"
+               },
+               "name": "Qatar Airways",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/qatar"
+            }, {
+               "date_added": "13185547655338260",
+               "id": "71",
+               "meta_info": {
+                  "Description": "flight tickets"
+               },
+               "name": "Etihad Airways",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/etihad"
+            }, {
+               "date_added": "13185547655339522",
+               "id": "72",
+               "meta_info": {
+                  "Description": "travel, hotels"
+               },
+               "name": "Trivago",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/trivago"
+            }, {
+               "date_added": "13185547655340749",
+               "id": "73",
+               "meta_info": {
+                  "Description": "travel, apartments, guests"
+               },
+               "name": "AirBnB",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/airbnb"
+            }, {
+               "date_added": "13185547655342009",
+               "id": "74",
+               "meta_info": {
+                  "Description": "travel, cars, rent"
+               },
+               "name": "Rental Cars",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/rentalcars"
+            }, {
+               "date_added": "13185547655343280",
+               "id": "75",
+               "meta_info": {
+                  "Description": "education"
+               },
+               "name": "Lingorilla",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/lingorillade-de"
+            }, {
+               "date_added": "13185547655344533",
+               "id": "76",
+               "meta_info": {
+                  "Description": "travel"
+               },
+               "name": "Günstig mit dem Fernbus reisen | FlixBus",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/flixbus-de"
+            }, {
+               "date_added": "13185547655345780",
+               "id": "77",
+               "meta_info": {
+                  "Description": "travel"
+               },
+               "name": "Parkpl&auml;tze und Hotels am Flughafen zum absoluten Top-Preis!",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/parkenunffliegen-de"
+            }, {
+               "date_added": "13185547655347624",
+               "id": "78",
+               "meta_info": {
+                  "Description": "travel"
+               },
+               "name": "Dohop",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/dohop"
+            }, {
+               "date_added": "13185547655348780",
+               "id": "79",
+               "meta_info": {
+                  "Description": "travel"
+               },
+               "name": "Marco Polo Online Shop - Reisef&uuml;hrer - Stadtf&uuml;hrer - Sprachf&uuml;hrer - Karten - Atlanten - ebooks - Home",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/marcopolo-de"
+            }, {
+               "date_added": "13185547655351810",
+               "id": "80",
+               "meta_info": {
+                  "Description": "travel, hotels"
+               },
+               "name": "Hotels.com - Cheap Hotels, Discount Rates & Hotel Deals",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/hotelscom"
+            }, {
+               "date_added": "13185547655353553",
+               "id": "81",
+               "name": "DB Bahn: bahn.de - Ihr Mobilitätsportal für Reisen, Bahn, Urlaub, Hotels, Städtereisen und Mietwagen",
+               "type": "url",
+               "url": "http://www.bahn.de/"
+            }, {
+               "date_added": "13185547655355113",
+               "id": "82",
+               "name": "HolidayCheck • Hotels & Reisen mit Hotelbewertungen günstig buchen",
+               "type": "url",
+               "url": "http://www.holidaycheck.de/"
+            }, {
+               "date_added": "13185547655356925",
+               "id": "83",
+               "name": "Pauschalreisen im Preisvergleich | Günstige Reisen online buchen | CHECK24",
+               "type": "url",
+               "url": "http://urlaub.check24.de/"
+            }, {
+               "date_added": "13185547655360768",
+               "id": "84",
+               "name": "Günstige Flüge online buchen – Flug-Angebote vergleichen | fluege.de",
+               "type": "url",
+               "url": "http://www.fluege.de/"
+            }, {
+               "date_added": "13185547655362652",
+               "id": "85",
+               "name": "Urlaub: Bis 40% Rabatt beim Marktführer | ab-in-den-urlaub.de",
+               "type": "url",
+               "url": "http://www.ab-in-den-urlaub.de/"
+            }, {
+               "date_added": "13185547655364274",
+               "id": "86",
+               "name": "Book flights, offers, Miles & More and more - Lufthansa ®",
+               "type": "url",
+               "url": "http://www.lufthansa.com/"
+            } ],
+            "date_added": "13185547655335815",
+            "date_modified": "13185547655364274",
+            "id": "69",
+            "name": "Reisen",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13185547655367671",
+               "id": "88",
+               "meta_info": {
+                  "Description": "office, electronics, shopping"
+               },
+               "name": "FRANZIS | Experimentieren | Fotografieren | Programmieren",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/franzisde-de"
+            }, {
+               "date_added": "13185547655369201",
+               "id": "89",
+               "meta_info": {
+                  "Description": "software"
+               },
+               "name": "ABBYY - Software für OCR, ICR, OMR, Data Capture, Linguistik",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/abbyyeuropegermany-de"
+            }, {
+               "date_added": "13185547655371032",
+               "id": "90",
+               "name": "Börsenkurse | Börse Frankfurt | Börse Online | Börse Aktuell - boerse.de",
+               "type": "url",
+               "url": "http://www.boerse.de/"
+            }, {
+               "date_added": "13185547655372427",
+               "id": "91",
+               "name": "Handelsblatt.com - Nachrichten aus Wirtschaft, Finanzen, Politik, Unternehmen und Märkten",
+               "type": "url",
+               "url": "http://www.handelsblatt.com/"
+            }, {
+               "date_added": "13185547655373878",
+               "id": "92",
+               "name": "FINANZEN.NET: Börse und Finanzen",
+               "type": "url",
+               "url": "http://www.finanzen.net/"
+            } ],
+            "date_added": "13185547655365970",
+            "date_modified": "13185547655373878",
+            "id": "87",
+            "name": "Wirtschaft",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13185547655379118",
+               "id": "94",
+               "name": "Startseite der ARD Mediathek mit Videos und Audios zum Abruf",
+               "type": "url",
+               "url": "http://www.ardmediathek.de/tv"
+            }, {
+               "date_added": "13185547655381591",
+               "id": "95",
+               "name": "Startseite - ZDF Mediathek",
+               "type": "url",
+               "url": "http://www.zdf.de/ZDFmediathek#/hauptnavigation/startseite"
+            }, {
+               "date_added": "13185547655384677",
+               "id": "96",
+               "name": "SAT.1 Mediathek - Video - SAT.1 Sendungen online sehen",
+               "type": "url",
+               "url": "http://www.sat1.de/video"
+            }, {
+               "date_added": "13185547655387362",
+               "id": "97",
+               "name": "Video on Demand bei RTL NOW, Ihrer Internet Mediathek von RTL | RTL NOW!",
+               "type": "url",
+               "url": "http://rtl-now.rtl.de/"
+            }, {
+               "date_added": "13185547655389130",
+               "id": "98",
+               "name": "3sat.online - Mediathek: nano vom 21. Januar 2015",
+               "type": "url",
+               "url": "http://www.3sat.de/mediathek/"
+            }, {
+               "date_added": "13185547655391110",
+               "id": "99",
+               "name": "ARTE+7 | ARTE",
+               "type": "url",
+               "url": "http://www.arte.tv/guide/de/plus7/"
+            }, {
+               "date_added": "13185547655392667",
+               "id": "100",
+               "name": "Gute Fragen - hilfreiche Antworten - die Ratgeber Community gutefrage.net",
+               "type": "url",
+               "url": "http://www.gutefrage.net/"
+            }, {
+               "date_added": "13185547655394173",
+               "id": "101",
+               "name": "Der Postillon",
+               "type": "url",
+               "url": "http://www.der-postillon.com/"
+            }, {
+               "date_added": "13185547655395701",
+               "id": "102",
+               "name": "250.000 Rezepte / Kochrezepte bei CHEFKOCH.DE",
+               "type": "url",
+               "url": "http://www.chefkoch.de/"
+            }, {
+               "date_added": "13185547655397221",
+               "id": "103",
+               "name": "Anleitungen auf HELPSTER",
+               "type": "url",
+               "url": "http://www.helpster.de/"
+            } ],
+            "date_added": "13185547655375719",
+            "date_modified": "13185547655397221",
+            "id": "93",
+            "name": "Unterhaltung",
+            "type": "folder"
+         } ],
+         "date_added": "13185547654492858",
+         "date_modified": "13185547655375744",
+         "id": "1",
+         "name": "Lesezeichen",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13185547654492865",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Weitere Lesezeichen",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13185547654492870",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile Lesezeichen",
+         "type": "folder"
+      },
+      "trash": {
+         "children": [  ],
+         "date_added": "13185547654492871",
+         "date_modified": "0",
+         "id": "4",
+         "name": "Papierkorb",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
